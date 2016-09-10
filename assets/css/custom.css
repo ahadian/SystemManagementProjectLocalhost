@@ -1,0 +1,45 @@
+.login{
+	top: 50%;
+}
+.titleweb{
+	font-size: 20pt;
+}
+.titleweb .panelusr{
+	font-size: 15pt;
+}
+.navweb{
+	background-color: #26C6DA;
+	color:#FAFAFA;
+}
+.titleproject{
+	font-size: 30pt;
+	color: #424242;
+}
+.footcopy{
+	overflow: hidden;
+	height: 50px;
+	line-height: 50px;
+	color: #ffebee;
+	background-color: #26C6DA;
+}
+.footcopy a{
+	color: #FFF;
+}
+.maincont{
+	padding-bottom: 40px;
+}
+.toast-warning{
+	background-color: #d50000;
+}
+.toast-success{
+	background-color: #64DD17;
+}
+.toast-reminder{
+	background-color: #F9A825;
+}
+.btn-back{
+	margin-top: 20px;
+}
+.do_backup{
+	cursor: pointer;
+}
