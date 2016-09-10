@@ -3,7 +3,7 @@ System Management Project Localhost for Web Developer to manage their project. T
 
 # v0.5 Feature :
 - Add/edit Detail of project (name,deadline,status,notes)
-- Reminder (7 days before deadline if status is undone)
+- Reminder (7 days before deadline if status is not done)
 - Creating backup zip project
 
 # License
