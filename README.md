@@ -6,5 +6,12 @@ System Management Project Localhost for Web Developer to manage their project. T
 - Reminder (7 days before deadline if status is not done)
 - Creating backup zip project
 
+# How to Install :
+- Open localhost/[any folder you create it] in browser.
+- Follow instruction Installation.
+- Finish.
+- Now when you access localhost in your browser it will redirect to this app.
+
 # License
 See the license file.
+
