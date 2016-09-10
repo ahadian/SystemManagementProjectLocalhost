@@ -29,7 +29,7 @@ include "config/helper.php";
 if(!file_exists("config/config.php")){
 	header("location:install/");
 } else {
-	/*$dir = 'install';
+	$dir = 'install';
 	if(file_exists($dir)){
 		$it = new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS);
 		$files = new RecursiveIteratorIterator($it,
@@ -42,7 +42,7 @@ if(!file_exists("config/config.php")){
 		    }
 		}
 		rmdir($dir);
-	}*/
+	}
 }
 if(isset($_SESSION['usr_manage'])){
 	?>
